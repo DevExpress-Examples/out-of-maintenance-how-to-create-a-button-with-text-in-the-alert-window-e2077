@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AlertControlExtension.cs](./CS/WindowsApplication1/AlertControlExtension.cs) (VB: [AlertControlExtension.vb](./VB/WindowsApplication1/AlertControlExtension.vb))
+* [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.cs](./VB/WindowsApplication1/Form1.cs))
+* [Program.cs](./CS/WindowsApplication1/Program.cs) (VB: [Program.cs](./VB/WindowsApplication1/Program.cs))
+<!-- default file list end -->
 # How to create a button with text in the alert window
 
 
